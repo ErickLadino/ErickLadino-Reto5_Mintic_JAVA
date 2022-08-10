@@ -27,10 +27,6 @@ import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.FillPatternType;
 import org.apache.poi.ss.usermodel.IndexedColors;
 
-/**
- *
- * @author Katherin
- */
 public class VistaPrincipal extends javax.swing.JFrame {
     
     
